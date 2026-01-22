@@ -12,7 +12,7 @@ https://user-management-01.netlify.app/
 
 ## 📸 Screenshot
 
-![User Management App UI](./screenshots/home.png)
+![User Management App UI](./screenshots/HOME.png)
 
 ---
 
