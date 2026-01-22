@@ -58,7 +58,7 @@ export default function Home() {
 
           {/* ✅ Only ONE note here */}
           <p className="note">
-            Note: JSONPlaceholder simulates POST/PUT/DELETE, so changes are shown in UI only.
+           
           </p>
         </div>
       </div>
